@@ -13,3 +13,8 @@ complete Streamlit app that includes:
 - PSU limits
 - settling behavior
 - production rate
+
+
+open a terminal inside its folder and run:
+py -m pip install -r requirements.txt
+py -m streamlit run streamlit_app.py
